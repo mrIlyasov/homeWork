@@ -5,5 +5,7 @@ public class Main {
             ints[i] = i + 1;
             System.out.print(ints[i]+" ");
         }
+        System.out.println();
+        System.out.println("Длина массива "+ints.length);
     }
 }
